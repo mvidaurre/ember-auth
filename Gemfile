@@ -16,4 +16,6 @@ gem 'ember-auth-response-dummy-source', '~> 1.0'
 gem 'ember-auth-strategy-dummy-source', '~> 1.0'
 gem 'ember-auth-session-dummy-source',  '~> 1.0'
 
-gem 'appraisal',                        '~> 0.5'
+gem 'appraisal',                     '~> 0.5'
+
+gem 'json',                          '~> 1.7.7'
